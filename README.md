@@ -1,3 +1,5 @@
+#WAIT FOR IT BRO, THIS IS A WORK IN PROGRESS
+
 # LASAV
 
 ![alt text](https://i.pinimg.com/originals/9e/7f/c1/9e7fc1f9d4dec053fb095a3890a64eea.jpg)
@@ -26,12 +28,4 @@ Run:
 
 ```
 make check
-```
-
-### Integration tests
-
-Run:
-
-```
-make check-integration
 ```
