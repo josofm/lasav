@@ -1,4 +1,4 @@
-module lasav
+module github.com/josofm/lasav
 
 go 1.16
 
