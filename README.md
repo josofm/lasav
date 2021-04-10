@@ -17,7 +17,7 @@ Just run
 
 ## Requirements
 
-To Run this project you need [Docker](https://www.docker.com/), [docker-compose](https://docs.docker.com/compose/) and [Golang](https://golang.org/doc/install)
+To Run this project you need [Docker](https://www.docker.com/),  and [Golang](https://golang.org/doc/install)
 
 
 ## Testing
